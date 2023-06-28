@@ -1,0 +1,67 @@
+Enter your name:
+tappy
+
+            /^\/^\
+          _|__|  O|
+ \/     /~     \_/ \
+  \____|__________/  \
+         \_______      \
+                 `\     \                 \
+                   |     |                  \
+                  /      /                    \
+                 /     /                       \\
+               /      /                         \ \
+              /     /                            \  \
+            /     /             _----_            \   \        
+           /     /           _-~      ~-_         |   |
+          (      (        _-~    _--_    ~-_     _/   |
+           \      ~-____-~    _-~    ~-_    ~-_-~    /
+             ~-_           _-~          ~-_       _-~    -tappy
+                ~--______-~                ~-___-~
+ Game rules:
+1. player should use this notation: 
+To go up use alphabet 'w
+To go down use alphabet 's'
+To go left use alphabet 'a'
+To go right use alphabet 'd'
+2.for eating one fruit (which is just have figure like '*') the user will get 10 points.
+3.The game will beover in the following cases: 
+        1.if the snake bite itself ,
+         2.the snake go out of the palying area, etc.
+Enter any key to stath the game:
+
+
+#######################################################################################################################
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                  *                                                  #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#OOOOOOOO                                                                                                             #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#                                                                                                                     #
+#######################################################################################################################
+
+SCORE:80
+Congratulationtappy, you have scored maximum score till now...
